@@ -10,11 +10,22 @@
 h1{
 	font-size:40px;
 	padding:0px;
+	text-align:center;
 }
 .sat{
+	margin:-20px;
 	padding:0px;
-	font-size:20px
+	font-size:20px;
+	text-align:center;
 }
 .har{
+	text-align:center;
+	color:white;
+	background-color: red;
+	border-radius:6px;
+	border-color:red;
+	padding:10px;
+	flex-direction:center;
+	margin:35px;
 	
 }
