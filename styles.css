@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.container{
+	height:100vh;
+	background:gray;
+	width:70vh;
+}
+.card{
+	padding:35px;
+ }
+h1{
+	font-size:40px;
+	padding:0px;
+}
+.sat{
+	padding:0px;
+	font-size:20px
+}
+.har{
+	
+}
